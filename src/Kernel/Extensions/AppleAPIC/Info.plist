@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>AppleAPIC</string>
 	<key>CFBundleGetInfoString</key>
-	<string>1.4, Copyright PureDarwin Project. 2003-2008</string>
+	<string>1.4, Copyright NEXT 2024-Present</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
@@ -52,7 +52,7 @@
 		</dict>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright PureDarwin Project</string>
+	<string>Copyright NEXTOS</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.kpi.iokit</key>
